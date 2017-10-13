@@ -1,0 +1,8 @@
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe.config
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.pdb
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\Topshelf.dll
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\Topshelf.xml
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\obj\Debug\TopShelfTest.csprojResolveAssemblyReference.cache
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\obj\Debug\TopShelfTest.exe
+F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\obj\Debug\TopShelfTest.pdb
