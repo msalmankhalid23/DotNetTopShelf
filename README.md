@@ -4,8 +4,7 @@ It contain the test project of using TopShelf framework. The creation of service
 Commands to install 'Console project' as windows service using TopShelf framework.
 
 #<exeName.exe> install
-
-F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe install
-F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe start
-F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe stop
-F:\SK\Work\POC\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe uninstall
+<DirectoryPath>\TopShelfTest\bin\Debug\TopShelfTest.exe install
+<DirectoryPath>\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe start
+<DirectoryPath>\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe stop
+<DirectoryPath>\TopShelfTestingSolution\TopShelfTest\bin\Debug\TopShelfTest.exe uninstall
